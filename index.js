@@ -12,4 +12,4 @@ function camelCase(str) {
   }).join('');
 }
 
-export default { compterMots, inverserChaine, camelCase };
+module.exports = { compterMots, inverserChaine, camelCase };
